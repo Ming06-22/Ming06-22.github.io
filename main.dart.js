@@ -33486,7 +33486,7 @@ $1(a){return new A.nW(null)},
 $S:133}
 A.mN.prototype={
 K(a){var s=null,r=A.mI(),q=A.mZ(a)
-return A.ol(r,A.ox(A.ay(s,A.mY(A.a([A.ay(s,A.bf("\n",s,s,s),s,s,s,s,s),A.ay(s,A.BB(new A.ic("assets/2022_ithome.png")),s,s,s,s,s),A.ay(s,A.bf("2022iThome\u9435\u4eba\u8cfdAI&Data\u7d44\u5b8c\u8cfd",A.hO(s,s,s,s,s,s,s,s,s,s,s,18,s,s,B.p,s,s,!0,s,s,s,s,s,s,s,s),s,s),s,s,s,s,s),A.ay(s,A.BB(new A.ic("assets/2022_cpe.JPG")),s,s,s,s,s),A.ay(s,A.bf("2022\tCPE 2022\u5e7410\u670818\u65e5 \u6392\u540d240(\u524d10.2%)",A.hO(s,s,s,s,s,s,s,s,s,s,s,18,s,s,B.p,s,s,!0,s,s,s,s,s,s,s,s),s,s),s,s,s,s,s),A.ay(s,A.dq(A.bf("\u8df3\u8f49\u524d\u9801",s,s,s),new A.Nr(a)),s,s,s,s,s),A.ay(s,A.dq(A.bf("\u5b98\u65b9\u9996\u9801",s,s,s),new A.Ns(a)),s,s,s,s,s)],t.E),B.aW),s,s,s,s,s)),q)}}
+return A.ol(r,A.ox(A.ay(s,A.mY(A.a([A.ay(s,A.bf("\n",s,s,s),s,s,s,s,s),A.ay(s,A.BB(new A.ic("assets/2022_ithome.png")),s,s,s,s,s),A.ay(s,A.bf("2022iThome\u9435\u4eba\u8cfdAI&Data\u7d44\u5b8c\u8cfd",A.hO(s,s,s,s,s,s,s,s,s,s,s,18,s,s,B.p,s,s,!0,s,s,s,s,s,s,s,s),s,s),s,s,s,s,s),A.ay(s,A.BB(new A.ic("assets/2022_cpe.JPG")),s,s,s,s,s),A.ay(s,A.bf("CPE 2022\u5e7410\u670818\u65e5 \u6392\u540d240(\u524d10.2%)",A.hO(s,s,s,s,s,s,s,s,s,s,s,18,s,s,B.p,s,s,!0,s,s,s,s,s,s,s,s),s,s),s,s,s,s,s),A.ay(s,A.dq(A.bf("\u8df3\u8f49\u524d\u9801",s,s,s),new A.Nr(a)),s,s,s,s,s),A.ay(s,A.dq(A.bf("\u5b98\u65b9\u9996\u9801",s,s,s),new A.Ns(a)),s,s,s,s,s)],t.E),B.aW),s,s,s,s,s)),q)}}
 A.Nr.prototype={
 $0(){A.iv(this.a).jm(null)},
 $S:0}
